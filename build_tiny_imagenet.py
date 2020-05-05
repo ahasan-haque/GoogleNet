@@ -65,6 +65,4 @@ for (dType, paths, labels, outputPath) in datasets:
 
     # close the HDF5 writer
     pbar.finish()
-    print("close called with {}".format(dType))
     writer.close()
-    print("{} ran successfully".format(dType))
