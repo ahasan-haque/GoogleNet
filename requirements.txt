@@ -23,7 +23,7 @@ Keras==2.3.1
 grpcio==1.28.1
 imutils==0.5.3
 scikit-image==0.16.2
-urllib3==1.24.3
+urllib3==1.26.5
 matplotlib==3.2.1
 idna==2.8
 certifi==2020.4.5.1
