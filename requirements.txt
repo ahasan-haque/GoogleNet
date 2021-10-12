@@ -41,7 +41,7 @@ Keras-Preprocessing==1.1.0
 pyparsing==2.4.7
 python-utils==2.4.0
 termcolor==1.1.0
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 six==1.12.0
 opencv-contrib-python==4.1.2.30
 Markdown==3.2.1
