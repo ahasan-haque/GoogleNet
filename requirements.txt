@@ -35,7 +35,7 @@ tensorboard==2.2.0
 tensorflow==2.2.0rc3
 pydot-ng==2.0.0
 google-auth-oauthlib==0.4.1
-protobuf==3.10.0
+protobuf==3.18.3
 h5py==2.10.0
 Keras-Preprocessing==1.1.0
 pyparsing==2.4.7
